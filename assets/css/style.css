@@ -18,10 +18,6 @@ body {
   color: #272829;
 }
 
-.myImge {
-  height: 130px;
-}
-
 .myImg2 {
   height: 400px;
 }
@@ -98,8 +94,9 @@ h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+  height: 150px;
+  width: 135px;
+  border: 7px solid #2c2f3f;
 }
 
 #header .profile h1 {
